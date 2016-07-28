@@ -744,3 +744,11 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+#show{
+    
+    width:50%;
+    height:300px;
+    border:soild yellow 2px;
+   
+}
